@@ -4,6 +4,10 @@
 A quick script, made in a day, without intent to be serious, and can be used almost anywhere.
 Download the script and have any webcam availiable, and the magic will be done. Not very configurable though.
 
+***Make sure to change TargetImage to whatever image you'd like to be displayed on the censor!***
+***The original image was meant to be a placeholder and is not meant to be used, you can if you'd like though, not stopping you.***
+The default image is a bit... odd.
+
 <hr>
 
 ## Download the files here:
