@@ -10,11 +10,15 @@ The default image is a bit... odd.
 
 <hr>
 
+#### Important note: If you have no webcam / webcam was not properly detected, the script will *immediately close.*
+
+<hr>
+
 ## Download the files here:
 **WinRAR  ||  ZIP**
 
 <a href="https://github.com/0-Starly-0/Face-Hider/releases/download/Downloadable/FaceHider.rar"><img src="https://www.rw-designer.com/icon-image/21764-256x256x32.png" width="50" height="50" alt="Download"></a>
-<a href="https://github.com/0-Starly-0/Face-Hider/releases/download/DownloadabIe/FaceHider.zip"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEIeRQzw9_qLENC43C7SRVKCt-CakwI7vA0AfaSTJuXw&s=10" width="50" height="50" alt="Download"></a>
+<a href="https://github.com/0-Starly-0/Face-Hider/releases/download/DownloadabIe/FaceHider.zip"><img src="https://adamraichu.gallerycdn.vsassets.io/extensions/adamraichu/zip-viewer/3.18.0/1741102886595/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Download"></a>
 
 **Alternatively, have the raw links:**
 
